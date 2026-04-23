@@ -68,10 +68,6 @@ focus:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaikmahammad664&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00C2FF/Shaikmahammad664" alt="commit graph" />
-</p>
-
 ---
 
 ## 🧩 System Design Concepts
