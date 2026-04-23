@@ -74,16 +74,63 @@ focus:
 
 ## 📌 Featured Projects
 
-### 🔹 Project 1: Scalable Web App
+🍰 Duabakes — E-commerce Bakery Platform
 
-* Built using Python + Web Stack
-* Focus: performance & modular architecture
+Overview
+
+Full-stack e-commerce web app for ordering bakery items with a modern UI and fast backend.
+
+Key Features
+
+🛒 Product catalog with categories & search
+🔐 User authentication & session handling
+🧾 Cart + checkout flow
+📦 Order management (create, track)
+⚡ Fast APIs with optimized responses
+
+Tech Stack
+
+Frontend: React, HTML, CSS, JavaScript
+Backend: Python, FastAPI, MySql
+
+Engineering Highlights
+
+🔹 RESTful API design with clear separation of concerns
+🔹 Component-based frontend architecture (React)
+🔹 Modular backend structure for scalability
+🔹 Clean UI with responsive design
+
+Next Improvements
+
+💳 Payment gateway integration
+☁️ Deployment (Docker + Cloud)
+📈 Caching & performance optimization
+
 
 ### 🔹 Project 2: AI-Based Tool
 
-* Applies ML concepts to solve real problems
-* Focus: automation & intelligence
+* ### 🧪 Antigravity Project — Experimental Build
 
+**Overview**
+- Experimental project exploring creative/advanced concepts using unconventional approaches.
+
+**Key Features**
+- ⚡ Rapid prototyping approach
+- 🧠 Focus on logic experimentation & problem solving
+- 🔍 Exploration of unique implementation techniques
+
+**Tech Stack**
+- HTML, CSS, JavaScript (customizable)
+
+**Engineering Highlights**
+- 🔹 Emphasis on experimentation over convention
+- 🔹 Iterative development approach
+- 🔹 Learning-driven architecture
+
+**Note**
+- 🚧 This project is part of ongoing experimentation and learning
+
+### Upcoming ---
 ### 🔹 Project 3: System Design Practice
 
 * Designed architectures (HLD + LLD)
