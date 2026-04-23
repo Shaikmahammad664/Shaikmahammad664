@@ -44,7 +44,7 @@ focus:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,react,Mysql" />
 </p>
 
 ---
