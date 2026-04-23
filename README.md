@@ -51,18 +51,6 @@ focus:
 
 ## 📊 GitHub Insights
 
-<p align="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaikmahammad664&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
-<p align="space-between">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikmahammad664&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaikmahammad664&theme=tokyonight"/>
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaikmahammad664&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaikmahammad664&theme=tokyonight"/>
