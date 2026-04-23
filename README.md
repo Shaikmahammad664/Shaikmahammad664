@@ -21,6 +21,7 @@ location: India
 expertise:
   - Python 🐍
   - Java ☕
+  - JavaScript 🟨
   - Web Development 🌐
   - Git & GitHub ⚙️
 focus:
@@ -102,7 +103,7 @@ focus:
 ## 🏆 Roadmap
 
 * 🚀 Advanced System Design
-* ☁️ Cloud (AWS basics)
+* ☁️ Cloud & DevOps
 * 🔄 Distributed Systems
 * 🌍 Open Source Contributions
 
@@ -111,8 +112,16 @@ focus:
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Coming_Soon-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/HackerRank-Coming_Soon-green?style=for-the-badge&logo=hackerrank"/>
+  <a href="https://www.hackerrank.com/profile/mahammadshaik664">
+    <img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-Active-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Practice-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-Strong-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge"/>
 </p>
 
 ---
