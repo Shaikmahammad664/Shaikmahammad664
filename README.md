@@ -51,11 +51,11 @@ focus:
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<p align="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaikmahammad664&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
-<p align="center">
+<p align="space-between">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikmahammad664&theme=tokyonight&hide_border=true"/>
 </p>
 
